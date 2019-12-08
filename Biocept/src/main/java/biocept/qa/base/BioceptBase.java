@@ -22,7 +22,7 @@ import com.aventstack.extentreports.ExtentTest;
 import biocept.qa.utill.ExtentManager;
 
 public class BioceptBase {
-
+//ASDASD
 	private WebDriver driver;
 	public static Properties prop;
 	public static Properties accessionprop;
